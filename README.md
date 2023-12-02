@@ -1,6 +1,7 @@
-# hello_world
+# 这是一个测试仓库 <br>
+用于学习Flutter以及如何使用GitHub仓库基本用法的项目。<br>
 
-A new Flutter project.
+---
 
 ## Getting Started
 
